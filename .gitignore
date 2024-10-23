@@ -1,6 +1,7 @@
 # Ignore environment variable files
 mongodb/.env
 mysql/.env
+postgresql/.env
 
 # Other ignore rules
 node_modules/
