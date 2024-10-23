@@ -1,0 +1,7 @@
+# Ignore environment variable files
+mongodb/.env
+
+# Other ignore rules
+node_modules/
+*.log
+.DS_Store
